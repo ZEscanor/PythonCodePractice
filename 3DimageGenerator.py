@@ -1,5 +1,4 @@
 #Z Amusa
-#yamusa2
 #this program creates a 3D image!
 # prompt Users for two files
 file= pickAFile()
